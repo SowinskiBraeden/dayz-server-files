@@ -42,7 +42,7 @@
 	"WorldsData":
 	{
 		"lightingConfig": 1,
-		"objectSpawnersArr": ["custom/Backup Base.json","custom/BRANDONSTKO.json"],
+		"objectSpawnersArr": ["custom/BRANDONSTKO.json"],
 		"environmentMinTemps": [1, 1, 1,1],
 		"environmentMaxTemps": [1, 1, 1,1]
 	},

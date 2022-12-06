@@ -25,7 +25,7 @@
         <thresholds min="0" max="0.1" end="1" />
     </rain>
     <wind>
-        <maxspeed>10</maxspeed>
+        <maxspeed>0</maxspeed>
         <params min="0" max="0.5" frequency="30" />
     </wind>
     <storm density="0.5" threshold="0.7" timeout="25"/>
