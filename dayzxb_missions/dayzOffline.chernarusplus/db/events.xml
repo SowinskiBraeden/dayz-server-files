@@ -1042,9 +1042,9 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>5</nominal>
-        <min>2</min>
-        <max>3</max>
+        <nominal>15</nominal>
+        <min>15</min>
+        <max>15</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
