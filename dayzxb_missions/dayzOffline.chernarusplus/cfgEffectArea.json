@@ -1,26 +1,26 @@
 {
     "Areas": [
-		{ 	"AreaName": "RADIO", 
-			"Type": "spooky_mist", 
-			"TriggerType": "EffectTrigger",
+        { 	"AreaName": "CASHBUNKER", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 8170, 0, 9083 ],
-				"Radius": 100,
-				"PosHeight": 60,
-				"NegHeight": 0,
-				"InnerRingCount": 1,
+				"Pos": [ 4786.09, 0, 9598.38 ],
+				"Radius": 150,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 2,
 				"InnerPartDist": 50,
 				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
+				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
 				"VerticalLayers": 0,
 				"VerticalOffset": 0,
-				"ParticleName": "graphics/particles/spooky_mist"
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
-				"AroundPartName": "graphics/particles/spooky_mist",
-				"TinyPartName": "graphics/particles/spooky_mist",
-				"PPERequesterType": "PPERequester_GlassesSportBlue"
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
 		{ 	"AreaName": "Ship-SW", 
