@@ -92,12 +92,12 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-        { 	"AreaName": "Pavlovo-North", 
+        { 	"AreaName": "Trader", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 2043, 0, 3485 ],
-				"Radius": 150,
+				"Pos": [ 8258.64, 0, 9075.87 ],
+				"Radius": 500,
 				"PosHeight": 25,
 				"NegHeight": 20,
 				"InnerRingCount": 2,

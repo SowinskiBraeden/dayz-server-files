@@ -42,7 +42,7 @@
 	"WorldsData":
 	{
 		"lightingConfig": 1,
-		"objectSpawnersArr": ["custom/BRANDONSTKO.json","custom/Trader.json","custom/CustomBases.json","custom/CigaretteSpawn.json","custom?ShipElektro.json"],
+		"objectSpawnersArr": ["custom/BRANDONSTKO.json","custom/Trader.json","custom/CustomBases.json","custom/CigaretteSpawn.json","custom/ShipElektro.json","custom/NewBase.json"],
 		"environmentMinTemps": [1, 1, 1,1],
 		"environmentMaxTemps": [1, 1, 1,1]
 	},
