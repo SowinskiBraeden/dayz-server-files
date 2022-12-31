@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
-<event name="StaticNPChandcuffed6">
+<event name="StaticHumvee">
         <nominal>1</nominal>
         <min>1</min>
         <max>1</max>
@@ -12,94 +12,9 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Cyril"/>
-        </children>
-    </event>
-    <event name="StaticNPChandcuffed5">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
-        <lifetime>0</lifetime>
-        <restock>0</restock>
-        <saferadius>0</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>1</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Seth"/>
-        </children>
-    </event>
-    <event name="StaticNPChandcuffed4">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
-        <lifetime>0</lifetime>
-        <restock>0</restock>
-        <saferadius>0</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>1</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Peter"/>
-        </children>
-    </event>
-    <event name="StaticNPChandcuffed3">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
-        <lifetime>0</lifetime>
-        <restock>0</restock>
-        <saferadius>0</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>1</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorF_Maria"/>
-        </children>
-    </event>
-    <event name="StaticNPChandcuffed2">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
-        <lifetime>0</lifetime>
-        <restock>0</restock>
-        <saferadius>0</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>1</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Hassan"/>
-        </children>
-    </event>
-    <event name="StaticNPChandcuffed1">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
-        <lifetime>0</lifetime>
-        <restock>0</restock>
-        <saferadius>0</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>1</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>child</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Francis"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="VehicleOffroad02"/>
         </children>
     </event>
     <event name="AmbientHen">

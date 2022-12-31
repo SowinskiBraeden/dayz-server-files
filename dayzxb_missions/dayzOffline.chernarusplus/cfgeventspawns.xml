@@ -389,6 +389,9 @@
 		<pos x="10468.54" z="2373.16" a="0.0" />
 		<pos x="2725.48" z="5288.75" a="0.0" />
 	</event>
+	<event name="StaticHumvee">
+		<pos x="210.70" z="3316.24" a="0.0" />
+	</event>	
     <event name="StaticBonfire">
 		<zone smin="3" smax="5" dmin="3" dmax="5" r="55" />
 		<pos x="8098.73" z="13023.365234" />
